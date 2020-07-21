@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "cross-fetch": "^3.0.5",
+    "dadata-suggestions": "^1.1.1",
     "geocoder": "^0.2.3",
     "nominatim-js": "^1.0.8"
   }

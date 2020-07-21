@@ -9,7 +9,8 @@ async function search(q) {
   //     await search("Воробьёвка Воробьёвский район Воронежская область Россия")
   //   );
   const result = await search(
-    "Подгорное Калачеевский район Воронежская область Россия"
+    "Россия"
   );
-  console.log(result[0].lat,',',result[0].lon);
+  console.log(result[0]);
 })();
+// 235730789

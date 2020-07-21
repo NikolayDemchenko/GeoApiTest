@@ -77,6 +77,11 @@ cross-fetch@^3.0.5:
   dependencies:
     node-fetch "2.6.0"
 
+dadata-suggestions@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/dadata-suggestions/-/dadata-suggestions-1.1.1.tgz#551d0c547bc286af8c5435d75a27705d5e1fa078"
+  integrity sha512-B4yshgv7W71bCdLNKf1YXWdf2biKEt2P0rkIhpaLztB++LR3Ek7xkb28Mn4TJ8AldDyYMs+ZPx+bBqzn61smRw==
+
 dashdash@^1.12.0:
   version "1.14.1"
   resolved "https://registry.yarnpkg.com/dashdash/-/dashdash-1.14.1.tgz#853cfa0f7cbe2fed5de20326b8dd581035f6e2f0"
